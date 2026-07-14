@@ -1,78 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ali Zeb</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Student • Python Developer • Django Enthusiast
-</h3>
+# 👋 Hi, I'm Ali Zeb
 
-<p align="center">
-I enjoy turning ideas into real-world applications using Python and Django.
-Currently building projects while expanding my knowledge in Artificial Intelligence and Data Science.
-</p>
+### AI & Data Science Student • Python Developer • Django Enthusiast
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,git,github"/>
-</p>
+*"Building today's projects to create tomorrow's intelligent solutions."*
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 🎓 AI & Data Science Student
 
-💻 Passionate about Python, Django and Backend Development
+🐍 Passionate about Python Development
 
-🤖 Exploring Artificial Intelligence and Machine Learning
+🌐 Building Web Applications using Django
 
-🚀 Building practical projects to improve my development skills
+🤖 Exploring Artificial Intelligence & Machine Learning
 
-🎯 Working towards becoming an AI Engineer & Python Developer
+💡 Always learning by building real-world projects
+
+🎯 Goal: Become an AI Engineer & Python Developer
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,html,css,git,github"/>
+
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🌐 Django Portfolio Website
+### Django Portfolio Website
 
-A responsive portfolio website developed with Django featuring:
+✔ Responsive Design
 
-- Professional Home Page
-- Projects Showcase
-- Contact Form
-- Django Admin Panel
-- Responsive Design
+✔ Contact Form
 
----
+✔ Django Admin Panel
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alizebdev&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizebdev&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+✔ Clean UI
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=alizebdev&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alizebdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizebdev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-<p align="center">
-
-<i>"Great software is built one commit at a time."</i>
-
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
 
-⭐ Thanks for visiting my profile.
+<img src="https://streak-stats.demolab.com?user=alizebdev&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ "Consistency beats talent when talent doesn't stay consistent."
+
+</div>
