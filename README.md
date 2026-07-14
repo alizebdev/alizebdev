@@ -1,101 +1,78 @@
 <h1 align="center">Hi 👋, I'm Ali Zeb</h1>
 
 <h3 align="center">
-AI & Data Science Student | Python & Django Developer
+AI & Data Science Student • Python Developer • Django Enthusiast
 </h3>
 
 <p align="center">
-Passionate about learning Artificial Intelligence, Data Science, and Web Development.
-Currently building projects with Python and Django while continuously improving my programming skills.
+I enjoy turning ideas into real-world applications using Python and Django.
+Currently building projects while expanding my knowledge in Artificial Intelligence and Data Science.
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 AI & Data Science Student
-- 🐍 Learning Python with practical projects
-- 🌐 Building Web Applications using Django
-- 📚 Currently exploring Machine Learning
-- 🎯 Goal: Become a Professional AI Engineer & Python Developer
-
----
-
-## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,git,github"/>
 </p>
 
 ---
 
-## 📖 Currently Learning
+## 👨‍💻 About Me
 
-- Python
-- Django
-- Git & GitHub
-- HTML & CSS
-- AI & Data Science
-- Machine Learning (Beginner)
+🎓 AI & Data Science Student
+
+💻 Passionate about Python, Django and Backend Development
+
+🤖 Exploring Artificial Intelligence and Machine Learning
+
+🚀 Building practical projects to improve my development skills
+
+🎯 Working towards becoming an AI Engineer & Python Developer
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Project
 
-🚀 **Django Portfolio Website**
+### 🌐 Django Portfolio Website
 
-A responsive portfolio website built using Django featuring:
+A responsive portfolio website developed with Django featuring:
 
-- Home Page
-- Projects Section
+- Professional Home Page
+- Projects Showcase
 - Contact Form
-- SQLite Database
 - Django Admin Panel
+- Responsive Design
 
 ---
 
-## 🎯 2026 Goals
-
-✅ Master Python
-
-✅ Master Django
-
-🔄 Learn JavaScript
-
-🔄 Learn Machine Learning
-
-🔄 Build AI Projects
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alizebdev&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alizebdev&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizebdev&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizebdev&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=alizebdev&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=alizebdev&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌟 Quote
+<p align="center">
 
-> "Success comes from consistency, not perfection."
+<i>"Great software is built one commit at a time."</i>
 
----
+</p>
 
 <p align="center">
-Thanks for visiting my profile ❤️
+
+⭐ Thanks for visiting my profile.
+
 </p>
