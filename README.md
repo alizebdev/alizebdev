@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Ali Zeb Banner" width="100%">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Ali Zeb
