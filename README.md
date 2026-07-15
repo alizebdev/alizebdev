@@ -1,30 +1,32 @@
 <div align="center">
 
-# Hi 👋, I'm Ali Zeb
+# 👋 Hi, I'm Ali Zeb
 
 ### AI & Data Science Student • Python Developer • Django Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=2500&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Django+Web+Developer;Building+Projects+Every+Day;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=2500&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Django+Web+Developer;Building+Real+World+Projects;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-💙 Passionate about solving real-world problems through technology.
+🎓 AI & Data Science Student
 
-🎓 Currently pursuing **AI & Data Science**.
+🐍 Passionate about Python Development
 
-🐍 Building practical applications using **Python** and **Django**.
+🌐 Building Web Applications using Django
 
-🤖 Exploring **Artificial Intelligence** and **Machine Learning**.
+🤖 Exploring Artificial Intelligence & Machine Learning
 
-🎯 My goal is to become a professional **AI Engineer** and **Python Developer**.
+💡 I believe the best way to learn is by building real-world projects.
+
+🎯 My goal is to become an AI Engineer and Python Developer.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -34,69 +36,41 @@
 
 ---
 
-# 🌟 Featured Project
+## 🌟 Featured Project
 
-## 🌐 Django Portfolio Website
+### 🌐 Django Portfolio Website
 
-A modern responsive portfolio website built with Django.
+A responsive portfolio website developed using Django.
 
-✨ Features
+### Features
 
-- Professional Home Page
-- Responsive Design
-- Contact Form
-- Django Admin Panel
-- SQLite Database
+✔ Modern Responsive UI
 
----
+✔ Projects Showcase
 
-# 🏆 GitHub Trophies
+✔ Contact Form
 
-<p align="center">
+✔ Django Admin Panel
 
-<img src="https://github-profile-trophy.vercel.app/?username=alizebdev&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
+✔ SQLite Database
 
 ---
 
-# 📊 GitHub Stats
+## 📌 Current Focus
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alizebdev&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizebdev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alizebdev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/alizebdev/alizebdev/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+- Python
+- Django
+- Artificial Intelligence
+- Data Science
+- Machine Learning
 
 ---
 
 <div align="center">
 
-### 💡 Favorite Quote
+## 💬 Favorite Quote
 
-> **"Success is built one commit at a time."**
+> **"Small progress every day leads to big success."**
 
 </div>
 
@@ -105,7 +79,5 @@ A modern responsive portfolio website built with Django.
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
 
 </div>
